@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 2em;
+}
+
+.sender-column {
+    text-align: right;
+}
+
+blockquote {
+    margin-left: 2em;
+    font-style: italic;
+}
